@@ -1,4 +1,4 @@
-## GCP Overview
+****## GCP Overview
 
 ### Project infrastructure modules in GCP:
 * Google Cloud Storage (GCS): Data Lake
